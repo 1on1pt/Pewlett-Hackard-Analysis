@@ -74,9 +74,15 @@ To be eligible for the Mentorship Program, the employee had to have been born in
 
 ## Summary
 The Human Resources Department and the Leadership Team at Hewlett Packard will have work to do in order to minimize the impact of the impending "silver tsunami."
-* An analysis of retiring employees by title demonstrated that there is a total of **72,458** employees eligible for retirement.  These are employees with a birth date between January 1, 1952 and December 31, 1955.
+* An analysis of retiring employees by title demonstrated that there is a total of **72,458** employees eligible for retirement.  These are employees with a birth date between January 1, 1952 and December 31, 1955.  Here is an image of the last seven employees in this list:
+
+![image](https://user-images.githubusercontent.com/94148420/152720742-45e05bb5-3949-4ed0-9afe-cf24d5c19860.png)
+
 * Those eligible to retire represent **24.2%** of the Pewlett Hackard workforce.  There are a total of **300,024** employees.
-* There are a total of 1549 employees eligible for the Mentorship program.  These are employees that were born in 1965.
+* There are a total of 1549 employees eligible for the Mentorship program.  These are employees that were born in 1965.  Here is a sample of the employees that would be eligible for the Mentorship Program:
+
+![image](https://user-images.githubusercontent.com/94148420/152721016-89945dc8-5a8a-42e4-a7da-6cb212d9f3e7.png)
+
 * A Mentorship Program can be successful by identifying Senior Engineers (25,916), Senior Staff (24926), and Managers (2) who have an interest in becoming a Mentor.
 * The Human Resources Department will take the lead, with the assistance of the Leadership Team to:
      * Define and establish the Mentorship Program
