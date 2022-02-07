@@ -89,6 +89,6 @@ The Human Resources Department and the Leadership Team at Hewlett Packard will h
      * Promote the Mentorship Program to the 1549 eligible candidates
      * Enroll eligible candidates into the program
      * Candidates to complete and graduate from the program
-     * Assess the results of the initial Mentorship Program class
+     * Assess the results of the initial Mentorship Program class and make changes as necessary
 
 
