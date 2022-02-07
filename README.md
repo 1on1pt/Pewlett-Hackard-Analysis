@@ -82,7 +82,7 @@ The Human Resources Department and the Leadership Team at Hewlett Packard will h
 
 ![image](https://user-images.githubusercontent.com/94148420/152721016-89945dc8-5a8a-42e4-a7da-6cb212d9f3e7.png)
 
-* A Mentorship Program can be successful by identifying Senior Engineers (25,916), Senior Staff (24926), and Managers (2) who have an interest in becoming a Mentor.
+* A Mentorship Program can be successful by identifying Senior Engineers (25,916), Senior Staff (24926), and Managers (2) who have an interest in becoming a Mentor before they retire.
 * The Human Resources Department will take the lead, with the assistance of the Leadership Team to:
      * Define and establish the Mentorship Program
      * Identify and train potential Mentors
