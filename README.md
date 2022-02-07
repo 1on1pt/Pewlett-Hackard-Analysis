@@ -35,6 +35,37 @@ In order to visualize the relationship between the available data sources and th
 
 
 ### Determining the Number of Retiring Employees by Title
+In order to determine the number of retiring employees by title (retiring_titles), two tables had to be created:
+* retirement_titles
+* unique_titles
+
+Below is the code that created the **retirement_titles** table:
+
+![image](https://user-images.githubusercontent.com/94148420/152713180-18a34adb-c779-455d-a44d-544adb6dc201.png)
+
+The **unique_titles** table was created with this code:
+
+![image](https://user-images.githubusercontent.com/94148420/152713248-4e79d8a3-0de1-44b6-8a3d-41deb73e73c0.png)
+
+Which ultimately created the final table, **retiring_titles**:
+
+![image](https://user-images.githubusercontent.com/94148420/152713410-72104ac0-08ee-4cce-8244-a48054c411c6.png)
+
+This is the output of the **retiring_titles** table:
+
+![image](https://user-images.githubusercontent.com/94148420/152713625-3b51ff10-304b-4f76-b05c-e5c90b8c0a41.png)
+
+Significant findings in this table include:
+1. There are a total of 7 titles included with those that will be retiring.
+2. A total of 72,458 employees will be retiring.
+3. The largest title group retiring is Senior Engineer with 25,916 employees, followed closely by Senior Staff with 24,926 employees
+4. There are two Managers that will be retiring
+5.  
+
+
+
+
+
 
 
 
