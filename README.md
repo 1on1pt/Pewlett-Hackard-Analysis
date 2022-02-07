@@ -16,8 +16,10 @@ Data Source:
   * employees.csv
   * salaries.csv
   * titles.csv
+
 Code:
   * Employee_Database_challenge.sql
+
 Software:
   * pgAdmin 6.1; Visual Studio Code 1.64.0
 
