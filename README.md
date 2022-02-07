@@ -78,7 +78,6 @@ The Human Resources Department and the Leadership Team at Hewlett Packard will h
 
 ![image](https://user-images.githubusercontent.com/94148420/152720742-45e05bb5-3949-4ed0-9afe-cf24d5c19860.png)
 
-* Those eligible to retire represent **24.2%** of the Pewlett Hackard workforce.  There are a total of **300,024** employees.
 * There are a total of 1549 employees eligible for the Mentorship program.  These are employees that were born in 1965.  Here is a sample of the employees that would be eligible for the Mentorship Program:
 
 ![image](https://user-images.githubusercontent.com/94148420/152721016-89945dc8-5a8a-42e4-a7da-6cb212d9f3e7.png)
