@@ -66,10 +66,16 @@ Below is the code that created the **mentorship_eligibility** table:
 
 ![image](https://user-images.githubusercontent.com/94148420/152715106-0886c5c3-0992-460c-8605-fbe97ea1c500.png)
 
-To be eligible for the Mentorship Program, the employee had to have been born in 1965.  There are a total of 1549 employees that are eligible for the program.  Here is an image of last seven who are eligible:
+To be eligible for the Mentorship Program, the employee had to have been born in 1965.  There are a **total of 1549 employees** that are eligible for the program.  Here is an image of last seven who are eligible:
 
 ![image](https://user-images.githubusercontent.com/94148420/152715598-7da62c1d-6154-4dd1-8388-33308462bafe.png)
 
 
 
 ## Summary
+The Human Resources Department and the Leadership Team at Hewlett Packard will have work to do in order to minimize the impact of the impending "silver tsunami."
+* An analysis of retiring employees by title demonstrated that there is a total of **72,458** employees eligible for retirement.
+* Those eligible to retire represent **24.2%** of the Pewlett Hackard workforce.  There are a total of **300,024** employees.
+* There are a total of 1549 employees eligible for the Mentorship program.  These are employees that were born in 1965.
+* 
+* 
