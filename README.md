@@ -9,7 +9,7 @@ The purpose of this project was to assist Bobby, a human resource analyst, in a 
 
 ### Resources
 
-Data Source:
+Data Source (initial):
   * departments.csv
   * dept_emp.csv
   * dept_manager.csv
@@ -24,6 +24,15 @@ Software:
   * pgAdmin 6.1; Visual Studio Code 1.64.0
 
 ## Results
+The two deliverables in this project included:
+1. Determining the number of retiring employees by title
+2. Determining employees that are eligible for the Mentorship Program
+
+In order to visualize the relationship between the available data sources and the Pewlett Hackard employee structure, an Entity Relationship Diagram was developed:
+![image](https://user-images.githubusercontent.com/94148420/152712774-7a0f8248-d1d2-4403-bb57-e48d807ca8ec.png)
+
+
+### Determining the Number of Retiring Employees by Title
 
 
 
