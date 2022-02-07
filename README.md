@@ -64,7 +64,7 @@ Significant findings in this table include:
 ### Determining Employees that are Eligible for the Mentorship Program
 Below is the code that created the **mentorship_eligibility** table:
 
-![image](https://user-images.githubusercontent.com/94148420/152715106-0886c5c3-0992-460c-8605-fbe97ea1c500.png)
+![image](https://user-images.githubusercontent.com/94148420/152723349-13a31c01-2d51-4250-a90d-e920964ee753.png)
 
 To be eligible for the Mentorship Program, the employee had to have been born in 1965.  There are a **total of 1549 employees** that are eligible for the program.  Here is an image of last seven who are eligible:
 
