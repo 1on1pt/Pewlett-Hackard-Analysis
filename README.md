@@ -47,7 +47,7 @@ The **unique_titles** table was created with this code:
 
 ![image](https://user-images.githubusercontent.com/94148420/152713248-4e79d8a3-0de1-44b6-8a3d-41deb73e73c0.png)
 
-Which ultimately created the final table, **retiring_titles**:
+Which ultimately helped to create the final table, **retiring_titles**:
 
 ![image](https://user-images.githubusercontent.com/94148420/152713410-72104ac0-08ee-4cce-8244-a48054c411c6.png)
 
