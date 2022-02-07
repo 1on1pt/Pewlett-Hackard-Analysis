@@ -9,6 +9,17 @@ The purpose of this project was to assist Bobby, a human resource analyst, in a 
 
 ### Resources
 
+Data Source:
+  * departments.csv
+  * dept_emp.csv
+  * dept_manager.csv
+  * employees.csv
+  * salaries.csv
+  * titles.csv
+Code:
+  * Employee_Database_challenge.sql
+Software:
+  * pgAdmin 6.1; Visual Studio Code 1.64.0
 
 ## Results
 
