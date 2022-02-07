@@ -77,5 +77,13 @@ The Human Resources Department and the Leadership Team at Hewlett Packard will h
 * An analysis of retiring employees by title demonstrated that there is a total of **72,458** employees eligible for retirement.
 * Those eligible to retire represent **24.2%** of the Pewlett Hackard workforce.  There are a total of **300,024** employees.
 * There are a total of 1549 employees eligible for the Mentorship program.  These are employees that were born in 1965.
-* 
-* 
+* A Mentorship Program can be successful by identifying Senior Engineers (25,916), Senior Staff (24926), and Managers (2) who have an interest in becoming a Mentor.
+* The Human Resources Department will take the lead, with the assistance of the Leadership Team to:
+     * Define and establish the Mentorship Program
+     * Identify and train potential Mentors
+     * Promote the Mentorship Program to the 1549 eligible candidates
+     * Enroll eligible candidates into the program
+     * Candidates to complete and graduate from the program
+     * Assess the results of the initial Mentorship Program class
+
+
