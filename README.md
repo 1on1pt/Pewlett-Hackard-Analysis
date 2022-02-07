@@ -29,6 +29,7 @@ The two deliverables in this project included:
 2. Determining employees that are eligible for the Mentorship Program
 
 In order to visualize the relationship between the available data sources and the Pewlett Hackard employee structure, an Entity Relationship Diagram was developed:
+
 ![image](https://user-images.githubusercontent.com/94148420/152712774-7a0f8248-d1d2-4403-bb57-e48d807ca8ec.png)
 
 
